@@ -1,6 +1,4 @@
-
-
-function CarWidget() {
+function CartWidget() {
     return (
         <div className="menu menu3">
             <button id="cesta-carrito"><i className="fas fa-shopping-cart"></i>
@@ -10,4 +8,4 @@ function CarWidget() {
 
     )
 }
-export default CarWidget
+export default CartWidget

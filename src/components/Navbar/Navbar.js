@@ -1,4 +1,4 @@
-import CarWidget from "../Navbar/CarWidget"
+import CartWidget from "../Navbar/CartWidget"
 
 function NavBar() {
     return (
@@ -12,7 +12,7 @@ function NavBar() {
                 </li>
             </ul>
             <div>
-                <CarWidget />
+                <CartWidget />
             </div>
         </nav>
     )
